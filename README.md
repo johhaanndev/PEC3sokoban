@@ -9,6 +9,8 @@ As everyone played, at least once in your life, a box pusher game, there will no
 
 **Basics**
 
+Game goal is to move the boxes (black circles) and put them in every goal point (pink square) moving your player (blue box). Player can only move 1 box at a time, you can not move two boxes in the same direction at a time nor pull boxes. Only push 1 box. Level finishes when all goal points are filled with a box.
+
 Mainly, this tool is about pixels and colors. To design a new level, we will set small dimensions, for example a 16x16 pixels. Then decide which colors are we usign for each element in the game:
 - Black for walls.
 - Red for boxes.
