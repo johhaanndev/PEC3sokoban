@@ -44,4 +44,8 @@ For every pixel it will call what color it is and start comparing. If the pixel'
 
 **Unity Failed to load Windows layout error**
 
-This error might pop up when trying to open the project in Unity Hub. To solve this, you will need to go to LayoutError directory in this same repository, and copy the content
+This error might pop up when trying to open the project in Unity Hub. To solve this, you will need to go to LayoutError directory in this same repository, copy the _CurrentLayout-default.dwlt_ and paste it in the Library directory. It will say there is already a file with this name, replace it.
+
+Once you have replaced it, click on the System Tray (in the windows bar, next to the hour and date should be little icons as wi-fi and volume), Unity Hub should appear. Right-click and Quit Unity Hub. Re-open Unity Hub and you can now use the unity project.
+
+If this quick guide did not work (maybe the _CurrentLayout-default.dwlt_ do not fit your PC) you can use this tutorial that uses the PC layout parameters: https://www.youtube.com/watch?v=hGukVu1DR18&ab_channel=GameTrick
