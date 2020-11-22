@@ -41,3 +41,7 @@ It will run over every pixel in the image using two for loops like a matrix. Eve
 _GenerateTile(int x, int y)_
 
 For every pixel it will call what color it is and start comparing. If the pixel's alpha is 0, then it means is a walkable pixel and just returns. If not, it runs over the colors array and check 1 by 1 if the color in the array is the same as the pixel painted. Then we instantiate the prefab in the position (x, y)
+
+**Unity Failed to load Windows layout error**
+
+This error might pop up when trying to open the project in Unity Hub. To solve this, you will need to go to LayoutError directory in this same repository, and copy the content
