@@ -1,6 +1,8 @@
 # PEC3_Sokoban_clone
 _If Window layout error pops up when trying to open unity project, read the last lines of README file_
 
+Video explanation (spanish): https://youtu.be/dZTkMmQCm-g
+
 Tool to design levels quicker
 
 This repository shows how you can use photoshop as a tool to design new levels in Unity.
